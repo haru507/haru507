@@ -8,6 +8,7 @@
 - PHP
 - JavaScript
 - Dart
+- Swift
 - Kotlin
 
 ### フレームワーク、Middleware、Hardware
@@ -15,10 +16,12 @@
 - Laravel
 - React
 - Next.js
-- Nest.js
+- NestJS
+- Django
 
 ### その他
 - AWS
 - GCP
+- 基本情報技術者試験
 
 Thank you!!
