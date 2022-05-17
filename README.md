@@ -1,6 +1,8 @@
 ## 基本情報
 - Name: Haruki Ishii
-- Twitter: @i_haru57 https://twitter.com/i_haru57
+- Twitter: [@i_haru57](https://twitter.com/i_haru57)
+- Portfolio: [mikeneko](https://mike-neko-507-hhflb5mpx-haru507.vercel.app/)
+- Blog: [zenn](https://zenn.dev/haru507)
 
 ## スキル
 ### 言語
