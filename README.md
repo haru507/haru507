@@ -20,6 +20,7 @@
 - Next.js
 - NestJS
 - Django
+- Flutter
 
 ### その他
 - AWS
