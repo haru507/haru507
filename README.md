@@ -1,11 +1,11 @@
-## 基本情報
+## Introduction
 - Name: Haruki Ishii
 - Twitter: [@i_haru57](https://twitter.com/i_haru57)
 - Portfolio: [mikeneko](https://mike-neko-507-hhflb5mpx-haru507.vercel.app/)
 - Blog: [zenn](https://zenn.dev/haru507)
 
-## スキル
-### 言語
+## Skill
+### Language
 - Java
 - PHP
 - JavaScript
@@ -13,7 +13,7 @@
 - Swift
 - Kotlin
 
-### フレームワーク、Middleware、Hardware
+### FW、Middleware、Hardware
 - Spring Boot
 - Laravel
 - React
@@ -22,7 +22,7 @@
 - Django
 - Flutter
 
-### その他
+### Others
 - AWS
 - GCP
 - 基本情報技術者試験
