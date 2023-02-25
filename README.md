@@ -7,18 +7,18 @@
 
 ## Skill
 ### Language
-- Java
 - PHP
 - JavaScript
+- Java
 - Dart
 - Swift
 - Kotlin
 
 ### FW、Middleware、Hardware
-- Spring Boot
 - Laravel
 - React
 - Next.js
+- Spring Boot
 - NestJS
 - Django
 - Flutter
