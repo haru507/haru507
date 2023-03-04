@@ -4,7 +4,7 @@
 - Portfolio: [mikeneko](https://mike-neko-507-dlen83lbb-haru507.vercel.app/)
 - Blog: [zenn](https://zenn.dev/haru507)
 - Game: [ito](http://54.65.27.209/start)
-- MyWork: [notion](https://absorbed-limit-881.notion.site/b4e74017c28a4126990688a0e786324b)
+- SubWork: [notion](https://absorbed-limit-881.notion.site/b4e74017c28a4126990688a0e786324b)
 
 ### now
 
