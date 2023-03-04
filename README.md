@@ -7,8 +7,10 @@
 - MyWork: [notion](https://absorbed-limit-881.notion.site/b4e74017c28a4126990688a0e786324b)
 
 ### now
-　　※転職活動中です。
- Ruby on Rails で対戦型のリバーシアプリの作成を行なっており、
+
+ ※転職活動中です。
+ 
+ また個人開発で Ruby on Rails で対戦型のリバーシアプリの作成を行なっており、
  RoRを学習しております。
  今後はGolangやRustといったサーバーサイド言語やNext.jsなどのフロントエンド言語の学習にも取り組む予定です。
 
