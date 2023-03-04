@@ -4,29 +4,7 @@
 - Portfolio: [mikeneko](https://mike-neko-507-dlen83lbb-haru507.vercel.app/)
 - Blog: [zenn](https://zenn.dev/haru507)
 - Game: [ito](http://54.65.27.209/start)
-
-## Skill
-### Language
-- PHP
-- JavaScript
-- Java
-- Dart
-- Swift
-- Kotlin
-
-### FW、Middleware、Hardware
-- Laravel
-- React
-- Next.js
-- Spring Boot
-- NestJS
-- Django
-- Flutter
-
-### Others
-- AWS
-- GCP
-- 基本情報技術者試験
+- MyWork: [notion](https://absorbed-limit-881.notion.site/b4e74017c28a4126990688a0e786324b)
 
 ### now
  Ruby on Rails で対戦型のリバーシアプリの作成を行なっており、
