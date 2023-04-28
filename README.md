@@ -1,6 +1,6 @@
 ## Introduction
 - Name: Haruki Ishii
-- Twitter: [@i_haru57](https://twitter.com/i_haru57)
+- Twitter: [@mikeneko_nyaan2](https://twitter.com/@mikeneko_nyaan2)
 - Portfolio: [mikeneko](https://mike-neko-507-dlen83lbb-haru507.vercel.app/)
 - Blog: [zenn](https://zenn.dev/haru507)
 - Game: [ito](https://github.com/haru507/ito)
