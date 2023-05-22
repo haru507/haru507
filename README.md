@@ -1,5 +1,6 @@
 ## Introduction
 - Name: Haruki Ishii
+- Wantedly: [Introduction](https://www.wantedly.com/id/mike_57)
 - Twitter: [@mikeneko_nyaan2](https://twitter.com/@mikeneko_nyaan2)
 - Portfolio: [mikeneko](https://mike-neko-507-dlen83lbb-haru507.vercel.app/)
 - Blog: [zenn](https://zenn.dev/haru507)
