@@ -6,7 +6,7 @@
 - Portfolio: [mikeneko](https://mike-neko-507.vercel.app/)
 - Blog: [zenn](https://zenn.dev/haru507)
 - Game: [ito](https://github.com/haru507/ito)
-- SubWork: [notion](https://absorbed-limit-881.notion.site/b11580be7fdb45a5985335d09c8f4ce4)
+- Resume: [notion](https://absorbed-limit-881.notion.site/b11580be7fdb45a5985335d09c8f4ce4)
 - in-house seminar: [repository](https://github.com/haru507/study_meet_app)
 
 ### now
