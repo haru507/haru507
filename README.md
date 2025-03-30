@@ -1,4 +1,4 @@
-# Introduction
+# ■ Introduction
 - Name: Haruki Ishii
 - SE
 - Wantedly: [haruki_ishii](https://www.wantedly.com/id/haruki_ishii_mike)
@@ -8,7 +8,7 @@
 - Game: [ito](https://github.com/haru507/ito)
 - in-house seminar: [repo](https://github.com/haru507/study_meet_app)
 
-# Resume
+# ■ Resume
 ## 東岡山工業高校
 (2012/04〜2015/03)
 - 電気科 (情報コース)
@@ -54,6 +54,8 @@
 
 **使用サービス**: EC-CUBE(PHP/Symfony), Vue.js, PostgreSQL, Docker, AWS…
 
+--- 
+
 ### 大手タイヤメーカーのゴルフアプリのアプリ開発・保守
 (2022/02〜2024/01)
 - **AWS**にて VPC, EC2, RDS, IAM, SG, Code系（CI/CD）, S3, CloudFront, Route53, ACM, SES, CloudWatchなど全てのAWSサービスを設計・構築
@@ -84,6 +86,7 @@
   - 保守/運用作業
 
 **使用サービス**: Laravel, React, Swift, MySQL, Wordpress, Docker, AWS…
+
 **社長賞**: 2023/05 キックオフでこれまでの成果を認めてもらい社長から賞をいただきました。
 
 ## エン・ジャパン株式会社
@@ -98,7 +101,7 @@
   - Lambda Node.js Typescriptで情報を連携するための設計・構築・開発
   - in progress...
 
-# Future Goals
+# ■ Future Goals
 開発チームの中心的なメンバーとなり、リーダーシップを発揮してプロジェクトを成功に導くことを目指しています。
 また、ソフトウェアアーキテクチャ、テスト駆動開発、ベストプラクティスについての知識を深め、システムの保守性や拡張性を向上させることに取り組んでいます。
 
