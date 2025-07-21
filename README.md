@@ -123,7 +123,11 @@
 - engage外部サービス連携の新規機能開発
   - AWS EventBridge, SQS, Lambdaを用いて、既存のバッチ処理を非同期で処理する設計・構築・開発
   - Lambda Node.js Typescriptで情報を連携するための設計・構築・開発
-  - in progress...
+- AWS ElasticTranscoder から AWS Elemental MediaConvert への移行
+  - 既存のLambda関数 Node.jsのリファクタリング
+  - S3イベントで起動していたLambda関数をAWS EventBridge経由で起動するように変更（開始）
+  - AWS Elemental MediaConvert の完了を検知して、EventBridge経由でLambda関数を起動するように変更（後処理）
+  - AWS Elemental MediaConvert のジョブテンプレートを作成し、Lambda関数で使い回すように変更
 
 <a id="future-goals"></a>
 # ■ Future Goals
