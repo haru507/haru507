@@ -14,11 +14,10 @@
 <a id="introduction"></a>
 # ■ Introduction
 - Name: Haruki Ishii
-- SE
+- Serverside Engineer
 - Wantedly: [haruki_ishii](https://www.wantedly.com/id/haruki_ishii_mike)
-- Twitter: [@mikeneko_nyaan2](https://twitter.com/@mikeneko_nyaan2)
 - Portfolio: [mikeneko](https://mike-neko-507.vercel.app/), [repo](https://github.com/haru507/mike_neko_507)
-- Blog: [zenn](https://zenn.dev/haru507)
+- Blog: [note](https://note.com/mikeneko_9657), [zenn](https://zenn.dev/haru507)
 - Game: [ito](https://github.com/haru507/ito)
 - in-house seminar: [repo](https://github.com/haru507/study_meet_app)
 
@@ -138,6 +137,6 @@
 加えて、フロントエンド開発やモバイルアプリ開発にも挑戦し、より幅広い領域での技術力を身につけたいと考えています。
 特に、SwiftやNext.js, React Nativeを活用したアプリケーション開発に関心があり、ユーザー体験を向上させるインターフェース設計やパフォーマンス最適化についても学んでいきたいです。
 
-最終的には、開発チームを率いる立場となり、ジュニアエンジニアの育成や技術的な品質向上を牽引することを目標としています。
+最終的には、開発チームを率いる立場となり、新しいエンジニアの育成や技術的な品質向上を牽引することを目標としています。
 
 Thank you!!
